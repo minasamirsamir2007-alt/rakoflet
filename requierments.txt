@@ -1,0 +1,12 @@
+kivy.app
+kivy.uix.boxlayout
+kivy.uix.gridlayout
+kivy.uix.label
+kivy.uix.textinput
+kivy.uix.button
+kivy.uix.spinner
+kivy.uix.popup
+kivy.uix.scrollview
+kivy.core.window
+kivy.storage.jsonstore
+datetime
